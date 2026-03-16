@@ -1,6 +1,6 @@
 # Dashboard Portfolio
 
-Willkommen in meinem Portfolio! <br>
+Willkommen auf meinem Dashboard-Portfolio! <br>
 Hier finden Sie eine Auswahl meiner Dashboard-Projekte aus verschiedenen Domänen.
 
 ---
