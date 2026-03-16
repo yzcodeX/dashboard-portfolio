@@ -3,7 +3,7 @@
 Willkommen auf meinem Dashboard-Portfolio! <br>
 Hier finden Sie eine Auswahl meiner Dashboard-Projekte aus verschiedenen Domänen.
 
----
+
 ## Projekte
 
 ### 1. Banking Domain - Risk Analysis
